@@ -12,3 +12,8 @@ th {
 li{
   list-style: square;
 }
+
+a:hover, :visited, :link {
+    color: hotpink;
+    text-decoration: none;
+}
