@@ -17,3 +17,8 @@ a:hover, :visited, :link {
     color: hotpink;
     text-decoration: none;
 }
+
+body > blockquote {
+  background-color: black;
+  color: white;
+}
